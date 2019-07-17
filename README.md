@@ -11,12 +11,12 @@ The localized-react-redux-material-ui-form is React/Redux Form boilerplate code 
   
   Install:
   
-          yarn install
+    yarn install
           
           
  Development: 
  
-          yarn start
+    yarn start
           
  
     
