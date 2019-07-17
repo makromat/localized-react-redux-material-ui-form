@@ -7,3 +7,16 @@ The localized-react-redux-material-ui-form is React/Redux Form boilerplate code 
   - Formik
   - Yup
   - react-localize-redux
+  
+  
+  Install:
+  
+    yarn install
+          
+          
+ Development: 
+ 
+    yarn start
+          
+ 
+    
