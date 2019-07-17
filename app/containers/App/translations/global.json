@@ -1,0 +1,154 @@
+{
+  "greeting": [
+    "Hello, please take a look at the Form Page",
+    "Bonjour, s'il vous plaît jeter un oeil à la page de formulaire"
+  ],
+  "farewell": [
+    "Goodbye",
+    "Au revoir"
+  ],
+  "firstName": [
+     "First Name",
+     "Prénom"
+  ],
+  "lastName": [
+    "Last Name",
+    "Nom de famille"
+  ],
+  "address1": [
+    "Address Line 1",
+    "Adresse 1"
+  ],
+  "address2": [
+    "Address Line 2",
+    "Adresse 2"
+  ],
+  "city": [
+    "City",
+    "Ville"
+  ],
+  "tooShort": [
+    "Too Short",
+    "Trop court"
+  ],
+  "required": [
+    "Required",
+    "Exigé"
+  ],
+   "status": [
+    "Status",
+    "Statut"
+  ],
+  "single": [
+    "Single",
+    "Unique"
+  ],
+  "married": [
+    "Married",
+    "Tmarié"
+  ],
+  "tooLong": [
+    "Too Long",
+    "Trop long"
+  ],
+  "next": [
+    "Next",
+    "Suivant"
+  ],
+  "back": [
+    "Back",
+    "Retour"
+  ],
+  "passwordValidation": [
+   "At least one uppercase letter, number and special character",
+   "Au moins une lettre majuscule, un chiffre et un caractère spécial"
+  ],
+  "emailValidation": [
+    "Add Valid Email Address",
+    "Ajouter une adresse email valide"
+  ],
+  "postalCode": [
+    "Postal Code",
+    "Code Postal"
+  ],
+  "checkout": [
+    "Checkout",
+    "Check-out"
+  ],
+  "showForm": [
+    "Show Form",
+    "Afficher le formulaire"
+  ],
+  "state": [
+    "State",
+    "Etat"
+  ],
+  "backToMainPage": [
+    "Back To Main Page",
+    "Retour à la page d'accueil"
+  ],
+  "country": [
+    "Country",
+    "Pays"
+  ],
+  "shippingAddress": [
+    "Shipping address",
+    "Adresse de livraison"
+  ],
+ "reviewOrder": [
+   "Review your order",
+   "Vérifiez votre commande"
+ ],
+  "email": [
+    "Email",
+    "Email"
+  ],
+  "password": [
+    "Password",
+    "Mot de passe"
+  ],
+  "paymentDetail": [
+    "Payment details",
+    "Détails de paiement"
+  ],
+  "paymentDetails": [
+    "Use this address for payment details",
+    "Utilisez cette adresse pour les détails du paiement"
+  ],
+  "nameOnCard": [
+    "Name on card",
+    "Nom sur carte"
+  ],
+  "paymentMethod": [
+    "Payment Method",
+    "Mode de paiement"
+  ],
+   "threeDigs": [
+     "Last three digits on signature strip",
+     "Trois derniers chiffres sur la bande de signature"
+   ],
+   "cardNumber": [
+     "Card number",
+     "Numéro de carte"
+   ],
+   "expDate": [
+     "Expiry date",
+     "Date d'expiration"
+   ],
+   "creditCardExpiryValid": [
+     "Format \"MM/YY\"",
+     "Format \"MM/YY\""
+   ],
+   "cardNumberValidation": [
+     "Format \"XXXX XXXX XXXX XXXX\"",
+     "Format \"XXXX XXXX XXXX XXXX\""
+   ],
+   "likeIceCream": [
+     "Do you like Ice Cream?",
+     "Est-ce que tu aimes les glaces?"
+   ],
+   "numbersAllowed": [
+     "Only numbers allowed",
+     "Est-ce que tu aimes les glaces?"
+   ]
+}
