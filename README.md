@@ -1,5 +1,4 @@
-# react-redux-material-ui-form
-
+# localized-react-redux-material-ui-form
 
 The localized-react-redux-material-ui-form is React/Redux Form boilerplate code with implementation of:
 
